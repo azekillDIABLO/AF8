@@ -1,0 +1,137 @@
+AF8 - The game without a name!
+Version 0.01, Alpha
+
+License of source code:
+-----------------------
+Copyright (C) 2016 LNJ <git@lnj.li>
+and contributors (see source file comments and the version control log)
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation; either version 2.1 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+
+License of media (textures, sounds, meshes):
+--------------------------------------------
+You can redistribute and or modify the media of this program under the terms of
+the Creative Commons Attribution-ShareAlike 3.0 Unported Public License.
+
+You should have received a copy of the Creative Commons
+Attribution-ShareAlike 3.0 Unported License along with this program; if not,
+write to Creative Commons, PO Box 1866, Mountain View, CA 94042 or see
+https://creativecommons.org/licenses/by-sa/3.0/
+
+
+Authors of media (textures, sounds, meshes):
+--------------------------------------------
+asl97:
+  mods/material/textures/material_ice.png
+
+BlockMen:
+  mods/game/textures/bubble.png
+  mods/game/textures/heart.png
+  mods/material/textures/material_charcoal.png
+  mods/material/textures/material_clay_brick.png
+  mods/material/textures/material_diamond.png
+  mods/material/textures/material_diamond_block.png
+  mods/material/textures/material_dry_dirt.png
+  mods/material/textures/material_gold_ingot.png
+  mods/material/textures/material_grass.png
+  mods/material/textures/material_grass_side.png
+  mods/material/textures/material_steel_ingot.png
+  mods/material/textures/material_lava_flowing_animated.png
+  mods/material/textures/material_lava_source_animated.png
+  mods/material/textures/material_mineral_mese.png
+  mods/material/textures/material_sand.png
+  mods/material/textures/material_snow.png, based on texture of Splizard (CC BY-SA 3.0)
+  mods/material/textures/material_snow_side.png
+  mods/material/textures/material_snowball.png
+
+brunob.santos:
+  mods/material/textures/material_desert_cobble.png
+
+Calinou:
+  mods/material/textures/material_brick.png
+  mods/material/textures/material_mineral_copper.png
+
+celeron55:
+  mods/game/textures/crack_anylength.png
+  mods/game/textures/wieldhand.png
+
+Cisoun:
+  mods/material/textures/material_lava.png
+  mods/material/textures/material_stone.png
+  mods/material/textures/material_water.png
+
+fridolin:
+  mods/material/textures/material_mineral_salt.png
+  mods/material/textures/material_salt.png
+  mods/material/textures/material_salt_block.png
+
+Gambit:
+  mods/material/textures/material_bronze_ingot.png
+  mods/material/textures/material_copper_ingot.png
+  mods/material/textures/material_copper_lump.png
+  mods/material/textures/material_iron_lump.png
+  mods/material/textures/material_gold_lump.png
+  mods/material/textures/material_clay_lump.png
+  mods/material/textures/material_coal_lump.png
+  mods/material/textures/material_flint.png
+
+InfinityProject:
+  mods/material/textures/material_diamond.png
+
+JBB:
+  mods/material/textures/material_bonemeal.png
+
+jojoa1997:
+  mods/material/textures/material_obsidian.png
+
+Jordach:
+  mods/game/textures/player.png
+  mods/game/textures/player_back.png
+
+LNJ:
+  mods/material/textures/material_bone.png
+
+Neuromancer:
+  mods/material/textures/material_cobble.png, based on texture by Brane praefect
+  mods/material/textures/material_mossycobble.png, based on texture by Brane praefect
+  mods/material/textures/material_dirt.png
+
+paramat:
+  mods/material/textures/material_sandstone_brick.png
+  mods/material/textures/material_obsidian_brick.png
+  mods/material/textures/material_dry_grass.png
+  mods/material/textures/material_dry_grass_side.png
+  mods/material/textures/material_stone_brick.png, derived from a texture by Cisoun (WTFPL)
+  mods/material/textures/material_desert_stone_brick.png, derived from a texture by VanessaE (WTFPL)
+
+PilzAdam:
+  mods/material/textures/material_obsidian_shard.png
+  mods/material/textures/material_mineral_gold.png
+
+RealBadAngel:
+  mods/material/textures/material_water_source_animated.png
+  mods/material/textures/material_water_flowing_animated.png
+
+VanessaE:
+  mods/material/textures/material_desert_sand.png
+  mods/material/textures/material_desert_stone.png
+
+Zeg9:
+  mods/material/textures/material_coal_block.png
+  mods/material/textures/material_steel_block.png
+  mods/material/textures/material_copper_block.png
+  mods/material/textures/material_bronze_block.png
+  mods/material/textures/material_gold_block.png
