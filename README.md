@@ -24,3 +24,6 @@
   - Mods created for v1.0 have to be compatible with any later version
   - Here can be added new features, but mods for v1.0 should be compatible with every later version.
 
+## Links
+- [GitHub](https://github.com/gamerbude/af8)
+- [Minetest Forum](https://forum.minetest.net/viewtopic.php?id=15432)
