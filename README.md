@@ -1,5 +1,5 @@
 # AF8 - Minetest Subgame
-### A new Work-In-Progess Minetest-Subgame wrote completely from scratch, licensed under LGPLv2.1/CC BY-SA 3.0.
+### A new Work-In-Progress Minetest-Subgame wrote completely from scratch, licensed under LGPLv2.1/CC BY-SA 3.0.
 
 ## Goals
 - get a clean mod structure (and not: dye, default, farming, wool, doors, ...)
